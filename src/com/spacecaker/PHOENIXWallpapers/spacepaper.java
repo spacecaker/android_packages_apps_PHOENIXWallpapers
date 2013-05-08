@@ -40,7 +40,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 
-public class wallpaper extends Activity implements AdapterView.OnItemSelectedListener,
+public class spacepaper extends Activity implements AdapterView.OnItemSelectedListener,
         OnClickListener {
 
     private Gallery mGallery;
