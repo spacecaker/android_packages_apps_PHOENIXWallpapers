@@ -18,9 +18,15 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_phoenix1</item>
+		<item>wallpaper_phoenix2</item>
+		<item>wallpaper_phoenix_red</item>
+		<item>wallpaper_phoenix_tribal</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>SpaceCaker :: Phoenix</item>
+		<item>SpaceCaker :: Phoenix 2</item>
+		<item>SpaceCaker :: Phoenix Red</item>
+		<item>SpaceCaker :: Phoenix Tribal</item>
     </string-array>
 </resources>
