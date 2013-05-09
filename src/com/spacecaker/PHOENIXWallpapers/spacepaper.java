@@ -151,7 +151,7 @@ public class spacepaper extends Activity implements AdapterView.OnItemSelectedLi
     private class ImageAdapter extends BaseAdapter {
         private LayoutInflater mLayoutInflater;
 
-        ImageAdapter(wallpaper context) {
+        ImageAdapter(spacepaper context) {
             mLayoutInflater = context.getLayoutInflater();
         }
 
